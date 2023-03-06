@@ -1,6 +1,6 @@
 {
   "name": "allexmodulerecognitionsync",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool for recognizing AllexJS module names the sync way",
   "main": "index.js",
   "directories": {
